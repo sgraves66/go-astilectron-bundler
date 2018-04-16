@@ -1,12 +1,12 @@
-This package provides a way to bundle an [astilectron](https://github.com/asticode/go-astilectron) app using the [bootstrap](https://github.com/asticode/go-astilectron-bootstrap).
+This package provides a way to bundle an [astilectron](https://github.com/sgraves66/go-astilectron) app using the [bootstrap](https://github.com/sgraves66/go-astilectron-bootstrap).
 
-Check out the [demo](https://github.com/asticode/go-astilectron-demo) to see a working example.
+Check out the [demo](https://github.com/sgraves66/go-astilectron-demo) to see a working example.
 
 # Installation
 
 Run the following command:
 
-    $ go get -u github.com/asticode/go-astilectron-bundler/...
+    $ go get -u github.com/sgraves66/go-astilectron-bundler/...
     
 # Configuration
 

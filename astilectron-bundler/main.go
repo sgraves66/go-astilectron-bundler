@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/asticode/go-astilectron-bundler"
-	"github.com/asticode/go-astilog"
-	"github.com/asticode/go-astitools/flag"
+	"github.com/sgraves66/go-astilectron-bundler"
+	"github.com/sgraves66/go-astilog"
+	"github.com/sgraves66/go-astitools/flag"
 	"github.com/pkg/errors"
 )
 
